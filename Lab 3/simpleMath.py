@@ -1,0 +1,5 @@
+r = float(input("R = "))
+t = float(input("T = "))
+print("R + T = ", r + t)
+print("R - T = ", r - t)
+print("R * T = ", r * t)
